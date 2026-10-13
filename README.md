@@ -1,1 +1,1 @@
-hhtps://www.github.io/samukiniaco/momogus
+https://github.io/samukiniaco/momogus
