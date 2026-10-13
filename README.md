@@ -1,1 +1,1 @@
-https://github.io/samukiniaco/momogus
+https://samukiniaco.github.io/momogus
